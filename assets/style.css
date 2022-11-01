@@ -1,7 +1,6 @@
 .no_links_blocker_warning {
     text-align: center;
     color: #b32d2e;
-    /* animation: no_links_blocker_warning_blink .3s linear .3s 6 alternate; */
     animation: no_links_blocker_warning_blink .8s cubic-bezier(.36, .07, .19, .97) both;
 }
 @keyframes no_links_blocker_warning_blink {
